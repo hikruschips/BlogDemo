@@ -24,3 +24,5 @@ group :test do
   gem "webdrivers"
 end
 gem 'devise', '~> 4.8', '>= 4.8.1'
+gem 'ruby-vips', '~> 2.1', '>= 2.1.4'
+gem 'image_processing', '~> 1.2'
