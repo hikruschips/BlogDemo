@@ -26,3 +26,4 @@ end
 gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'ruby-vips', '~> 2.1', '>= 2.1.4'
 gem 'image_processing', '~> 1.2'
+gem 'noticed', '~> 1.6'
